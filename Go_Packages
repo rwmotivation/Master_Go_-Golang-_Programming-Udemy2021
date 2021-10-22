@@ -1,0 +1,6 @@
+Go Packages and Modules
+There is an entire section on Go Packages and Modules later in the course.
+
+You'll learn to create your own Packages and Modules, how to publish them on GitHub and how to import them in other Go applications. Modules is a new feature of Go, fully implemented in Go v1.13 (at the end of 2019). They are the unit of Go source code interchange and versioning.
+
+However, I recommend you to first master general Go Programming before diving into Packages and Modules.
